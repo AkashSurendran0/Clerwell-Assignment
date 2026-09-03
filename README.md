@@ -1,6 +1,6 @@
-# Clerwell — Human Approval Queue
+# Clerwell — Admin Approval Queue
 
-A frontend implementation of Clerwell's Human Approval Queue, where reviewers can review AI-generated email responses, inspect AI analysis and risk information, and take appropriate actions on each email.
+A frontend implementation of Clerwell's Admin Approval Queue, where reviewers can review AI-generated email responses, inspect AI analysis and risk information, and take appropriate actions on each email.
 
 ## Features
 
